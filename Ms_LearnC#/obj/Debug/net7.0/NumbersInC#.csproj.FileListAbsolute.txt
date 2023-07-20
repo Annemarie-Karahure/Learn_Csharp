@@ -1,0 +1,15 @@
+C:\Users\MKara\Ms_LearnC#\bin\Debug\net7.0\NumbersInC#.exe
+C:\Users\MKara\Ms_LearnC#\bin\Debug\net7.0\NumbersInC#.deps.json
+C:\Users\MKara\Ms_LearnC#\bin\Debug\net7.0\NumbersInC#.runtimeconfig.json
+C:\Users\MKara\Ms_LearnC#\bin\Debug\net7.0\NumbersInC#.dll
+C:\Users\MKara\Ms_LearnC#\bin\Debug\net7.0\NumbersInC#.pdb
+C:\Users\MKara\Ms_LearnC#\obj\Debug\net7.0\NumbersInC#.csproj.AssemblyReference.cache
+C:\Users\MKara\Ms_LearnC#\obj\Debug\net7.0\NumbersInC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKara\Ms_LearnC#\obj\Debug\net7.0\NumbersInC#.AssemblyInfoInputs.cache
+C:\Users\MKara\Ms_LearnC#\obj\Debug\net7.0\NumbersInC#.AssemblyInfo.cs
+C:\Users\MKara\Ms_LearnC#\obj\Debug\net7.0\NumbersInC#.csproj.CoreCompileInputs.cache
+C:\Users\MKara\Ms_LearnC#\obj\Debug\net7.0\NumbersInC#.dll
+C:\Users\MKara\Ms_LearnC#\obj\Debug\net7.0\refint\NumbersInC#.dll
+C:\Users\MKara\Ms_LearnC#\obj\Debug\net7.0\NumbersInC#.pdb
+C:\Users\MKara\Ms_LearnC#\obj\Debug\net7.0\NumbersInC#.genruntimeconfig.cache
+C:\Users\MKara\Ms_LearnC#\obj\Debug\net7.0\ref\NumbersInC#.dll
