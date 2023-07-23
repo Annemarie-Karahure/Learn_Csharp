@@ -1,0 +1,15 @@
+C:\Users\MKara\makecoffeeinstructions\bin\Debug\net7.0\MakeCoffeeInstructions.exe
+C:\Users\MKara\makecoffeeinstructions\bin\Debug\net7.0\MakeCoffeeInstructions.deps.json
+C:\Users\MKara\makecoffeeinstructions\bin\Debug\net7.0\MakeCoffeeInstructions.runtimeconfig.json
+C:\Users\MKara\makecoffeeinstructions\bin\Debug\net7.0\MakeCoffeeInstructions.dll
+C:\Users\MKara\makecoffeeinstructions\bin\Debug\net7.0\MakeCoffeeInstructions.pdb
+C:\Users\MKara\makecoffeeinstructions\obj\Debug\net7.0\MakeCoffeeInstructions.csproj.AssemblyReference.cache
+C:\Users\MKara\makecoffeeinstructions\obj\Debug\net7.0\MakeCoffeeInstructions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKara\makecoffeeinstructions\obj\Debug\net7.0\MakeCoffeeInstructions.AssemblyInfoInputs.cache
+C:\Users\MKara\makecoffeeinstructions\obj\Debug\net7.0\MakeCoffeeInstructions.AssemblyInfo.cs
+C:\Users\MKara\makecoffeeinstructions\obj\Debug\net7.0\MakeCoffeeInstructions.csproj.CoreCompileInputs.cache
+C:\Users\MKara\makecoffeeinstructions\obj\Debug\net7.0\MakeCoffeeInstructions.dll
+C:\Users\MKara\makecoffeeinstructions\obj\Debug\net7.0\refint\MakeCoffeeInstructions.dll
+C:\Users\MKara\makecoffeeinstructions\obj\Debug\net7.0\MakeCoffeeInstructions.pdb
+C:\Users\MKara\makecoffeeinstructions\obj\Debug\net7.0\MakeCoffeeInstructions.genruntimeconfig.cache
+C:\Users\MKara\makecoffeeinstructions\obj\Debug\net7.0\ref\MakeCoffeeInstructions.dll
